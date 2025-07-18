@@ -66,9 +66,40 @@ We present a Smart Coastal Copilot that:
 
 ## 📦 Folder Structure
 
-```plaintext SMART-CREW/ │ ├── __pycache__/ │ ├── data/ │ ├── logs.json │ └── users.json │ ├── static/ │ ├── chart.js │ ├── login_background.gif │ ├── ocean_background.gif │ ├── ocean.gif │ ├── script.js │ └── style.css │ ├── templates/ │ ├── auth.html │ ├── authority.html │ ├── fisherman.html │ ├── index.html │ ├── login.html │ ├── officer.html │ ├── preview.html │ ├── select.html │ └── signup.html │ ├── app.py ├── last_sms_sent.json ```
+## 📁 Folder Structure
 
-## 🔧 How to Run Locally
+```
+SMART-CREW/
+│
+├── __pycache__/
+│
+├── data/
+│   ├── logs.json
+│   └── users.json
+│
+├── static/
+│   ├── chart.js
+│   ├── login_background.gif
+│   ├── ocean_background.gif
+│   ├── ocean.gif
+│   ├── script.js
+│   └── style.css
+│
+├── templates/
+│   ├── auth.html
+│   ├── authority.html
+│   ├── fisherman.html
+│   ├── index.html
+│   ├── login.html
+│   ├── officer.html
+│   ├── preview.html
+│   ├── select.html
+│   └── signup.html
+│
+├── app.py
+├── last_sms_sent.json
+```
+
 
 1. Clone the repo:
 
