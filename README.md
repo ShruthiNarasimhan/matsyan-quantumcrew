@@ -97,7 +97,7 @@ SMART-CREW/
 │   └── signup.html
 │
 ├── app.py
-├── last_sms_sent.json
+└── last_sms_sent.json
 ```
 
 
