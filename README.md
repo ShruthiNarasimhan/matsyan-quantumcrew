@@ -138,7 +138,7 @@ SMART-CREW/
 ## 📽️ Demo Video
 
 🎬 Watch our 3-minute demo on YouTube:
-[📺 Click here to view](https://youtube.com/your-demo-link)
+[📺 Click here to view]https://youtu.be/7ITCmbSkD4I
 
 ---
 
